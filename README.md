@@ -1,5 +1,6 @@
-# This is a repo focused in data mining
-## This repo has been made by Jhoan Sebastián Medina Jiménez
+# Data Science and Machine Learning Toolkit
+## This is a repo focused in Data Science
+### This repo has been made by Jhoan Sebastián Medina Jiménez
 
 Here you can find:
 1. Pre - processing
