@@ -1,6 +1,7 @@
 # Data Science and Machine Learning Toolkit :rocket:
-## This is a repo focused on Data Science :rocket:
+## This is a repo focused on Data Science :rocket: :fire: 
 ### This repo has been made by Jhoan Sebastián Medina Jiménez :smiley:
+I'm Statistician and M.S. of Analytics in progress
 
 Here you can find:
 
@@ -11,6 +12,7 @@ Here you can find:
         2. Imputation
         3. Feature Selection
         4. Dates
+        5. SHAP (SHapley Additive exPlanations)
     4. Dimension reduction
     5. Pipelines in scikit-learn
     6. Hyperparameter tuning
