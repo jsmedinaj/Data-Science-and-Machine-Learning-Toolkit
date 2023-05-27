@@ -3,17 +3,23 @@
 ### This repo has been made by Jhoan Sebastián Medina Jiménez
 
 Here you can find:
-1. Pre - processing
-    1. Pipelines in sklearn
-    2. Scaling
-    3. Imputation
-    4. Feature Selection
-    5. Dimension reduction
-2. Clustering
-3. Regresion
-4. Classification
+1. Pre-processing
+    1. Scaling
+    2. Imputation
+    3. Feature Selection
+    4. Dimension reduction
+    5. Pipelines in scikit-learn
+    6. Regression
+2. Classification
     1. Imbalanced data
-5. Whats the best model?
+3. Clustering
+4. Clustering models
+    1.Anomaly detection
+5. Time series
+6. NLP (Natural Language Processing)
+7. Best Model Selection
     1. Ensemble methods
-6. Neural networks
-7. Time series
+8. Neural networks
+9. PySpark
+10. Project Architectures - Productive models
+    1. Docker
