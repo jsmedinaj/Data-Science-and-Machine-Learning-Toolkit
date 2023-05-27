@@ -1,25 +1,50 @@
-# Data Science and Machine Learning Toolkit
-## This is a repo focused in Data Science
-### This repo has been made by Jhoan Sebastián Medina Jiménez
+# Data Science and Machine Learning Toolkit :rocket:
+## This is a repo focused on Data Science :rocket:
+### This repo has been made by Jhoan Sebastián Medina Jiménez :smiley:
 
 Here you can find:
+
+0. Introduction
 1. Pre-processing
-    1. Scaling
-    2. Imputation
-    3. Feature Selection
+    1. Feature Engineering
+        1. Scaling
+        2. Imputation
+        3. Feature Selection
+        4. Dates
     4. Dimension reduction
     5. Pipelines in scikit-learn
-    6. Regression
-2. Classification
-    1. Imbalanced data
-3. Clustering
-4. Clustering models
-    1.Anomaly detection
-5. Time series
-6. NLP (Natural Language Processing)
-7. Best Model Selection
+    6. Hyperparameter tuning
+2. Regression
+    1.  Models
+    2.  Metrics and evaluation
+3. Classification
+    1.  Models
+    2.  Metrics and evaluation
+    3. Imbalanced data
+4. Clustering
+    1.  Models
+    2. Clustering models
+    3.  Metrics and evaluation
+5. Anomaly detection
+6. Time series
+7. NLP (Natural Language Processing)
+    1. Embeddings
+8. Best Model Selection
     1. Ensemble methods
-8. Neural networks
-9. PySpark
+9. Neural networks
 10. Project Architectures - Productive models
-    1. Docker
+    1. PySpark
+    2. Docker
+    3. API's
+11. Extras
+    1. Using Chat GPT API
+    2. Reinforcement Learning
+    3. Natural Language Generation (NLG)
+
+Welcome to the Data Science and Machine Learning Toolkit! :tada: In today's data-driven world, extracting insights and making informed decisions is key to success in various domains. This repository aims to provide a comprehensive collection of topics and techniques in data science and machine learning, equipping you with the essential tools and knowledge to tackle real-world data challenges. :muscle:
+
+From pre-processing and feature engineering to regression, classification, clustering, and time series analysis, we cover a wide range of fundamental concepts and models. We delve into advanced topics like anomaly detection, natural language processing (NLP), neural networks, and best model selection using ensemble methods. We also explore practical aspects of project architectures, such as deploying models using PySpark, Docker, and API integrations. :gear:
+
+Additionally, we've included an 'Extras' section where we dive into exciting topics like using Chat GPT API for natural language generation, reinforcement learning for decision-making, and other intriguing techniques. :rocket:
+
+Whether you are a beginner starting your data science journey or an experienced practitioner looking to expand your skillset, this repository serves as a valuable resource. Let's embark on this exciting learning adventure and unlock the potential of data science and machine learning together! :books: :computer:
