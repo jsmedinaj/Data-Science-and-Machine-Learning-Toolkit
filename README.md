@@ -1,7 +1,7 @@
 # Data Science and Machine Learning Toolkit :rocket:
 ## This is a repo focused on Data Science :rocket: :fire: 
 ### This repo has been made by Jhoan Sebastián Medina Jiménez :smiley:
-I'm Statistician and M.S. of Analytics in progress
+I'm Statistician and M.S. of Analytics in progress in love with data :heart:
 
 Here you can find:
 
