@@ -1,7 +1,7 @@
 # Data Science and Machine Learning Toolkit :rocket:
 ## This is a repo focused on Data Science :rocket: :fire: 
 ### This repo has been made by Jhoan Sebastián Medina Jiménez :smiley:
-I'm Statistician and M.S. of Analytics in progress in love with data :heart:
+I'm Statistician and M.S. of Analytics in progress in love with data :heart:. You can find me in https://www.linkedin.com/in/sebasmedina/
 
 Here you can find:
 
@@ -11,11 +11,9 @@ Here you can find:
         1. Scaling
         2. Imputation
         3. Feature Selection
-        4. Dates
-        5. SHAP (SHapley Additive exPlanations)
-    4. Dimension reduction
-    5. Pipelines in scikit-learn
-    6. Hyperparameter tuning
+        4. Dimension reduction
+    3. Pipelines in scikit-learn
+    4. Hyperparameter tuning
 2. Regression
     1.  Models
     2.  Metrics and evaluation
@@ -31,17 +29,13 @@ Here you can find:
 6. Time series
 7. NLP (Natural Language Processing)
     1. Embeddings
-8. Best Model Selection
-    1. Ensemble methods
+8. Ensemble methods
 9. Neural networks
 10. Project Architectures - Productive models
     1. PySpark
     2. Docker
     3. API's
-11. Extras
-    1. Using Chat GPT API
-    2. Reinforcement Learning
-    3. Natural Language Generation (NLG)
+11. Using Chat GPT API
 
 Welcome to the Data Science and Machine Learning Toolkit! :tada: In today's data-driven world, extracting insights and making informed decisions is key to success in various domains. This repository aims to provide a comprehensive collection of topics and techniques in data science and machine learning, equipping you with the essential tools and knowledge to tackle real-world data challenges. :muscle:
 
